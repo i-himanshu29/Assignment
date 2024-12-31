@@ -1,4 +1,4 @@
-# Project Name
+# Project Name - Tomato-Food Delivery Website
 
 ## Prerequisites
 
